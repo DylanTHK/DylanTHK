@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DylanTHK
-- 👀 I’m interested in Data Analysis, Data Visualisation, Engineering
-- 🌱 I’m currently learning Python, R, Power BI, Statistics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analysis, Software Development
+- 🌱 I’m currently learning Python, Statistics, HTML, CSS, JavaScript, React, Node.js
+- 💞️ I’m looking to collaborate on Machine Learning and Web Development related projects
 - 📫 How to reach me: dylantanhk@gmail.com
 
 <!---
