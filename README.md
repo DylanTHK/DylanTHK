@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Dylan Tan from Singapore
-- 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Full-stack Web Development with JavaScript
-- 💞️ I’m looking to collaborate on Machine Learning and Web Development related projects
-- 📫 How to reach me: dylantanhk@gmail.com
+# 👋 Hello!
+
+I am Dylan Tan from Singapore, a Mechanical Engineer and aspiring Software Engineer. Interested in Software Development and Machine Learning, and currently learning Full-stack Web Development with JavaScript. Interested to collaborate on Machine Learning and Web Development related projects, do reach me at dylantanhk@gmail.com.
+
+
+# Stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanTHK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanTHK&show_icons=true&theme=github_dark)
+
+
 
 <!---
 DylanTHK/DylanTHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
