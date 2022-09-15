@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DylanTHK
-- 👀 I’m interested in Data Analysis, Software Development
-- 🌱 I’m currently learning Python, Statistics, HTML, CSS, JavaScript, React, Node.js
+- 👋 Hi, I’m Dylan Tan from Singapore
+- 👀 I’m interested in Software Development and Machine Learning
+- 🌱 I’m currently learning Full-stack Web Development with JavaScript
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development related projects
 - 📫 How to reach me: dylantanhk@gmail.com
 
