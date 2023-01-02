@@ -1,6 +1,8 @@
 # 👋 Hello!
 
-I am Dylan Tan from Singapore, a Mechanical Engineer and aspiring Software Engineer. Interested in Software Development and Machine Learning, and currently learning Full-stack Web Development with JavaScript. Interested to collaborate on Machine Learning and Web Development related projects, do reach me at dylantanhk@gmail.com.
+I am Dylan Tan from Singapore, a Mechanical Engineer graduate and aspiring Software Engineer. 
+Interested in Software Development and Machine Learning.
+Interested to collaborate on Machine Learning and Web Development related projects, do reach me at dylantanhk@gmail.com.
 
 
 # Stats
