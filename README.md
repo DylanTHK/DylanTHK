@@ -1,7 +1,9 @@
 # 👋 Hello!
 
 I am Dylan Tan from Singapore, a Mechanical Engineer graduate and aspiring Software Engineer. 
-Interested in Software Development and Machine Learning.
+Interests
+- Software Development
+- Machine Learning
 
 
 
